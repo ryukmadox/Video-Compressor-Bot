@@ -57,7 +57,7 @@ This is <b>🌈Saviour Coders' Video Compressor Bot🌈.</b>
     
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "Hi I am <b>🦋 Video Compressor Bot🦋</b> \n\n1. <i>Sent your telegram big video file</i> \n2. <i>Reply the file - /compress And enter the Persentage to which you want to compress</i> \n\n👉🏻Eg:- <code>/compress 50</code> compresses the video to 50%👈🏻 \n\nSupport Group :@armin_bots"
+        "Hi I am <b>🦋Inferno Video Compressor Bot🦋</b> \n\n1. <i>Sent your telegram big video file</i> \n2. <i>Reply the file - /compress And enter the Persentage to which you want to compress</i> \n\n👉🏻Eg:- <code>/compress 50</code> compresses the video to 50%👈🏻 \n\nSupport Group :@armin_bots"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
