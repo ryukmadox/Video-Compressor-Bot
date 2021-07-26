@@ -17,7 +17,7 @@ This is <b>🌈Saviour Coders' Video Compressor Bot🌈.</b>
 
 <b>Support Group</b> :- ⛵️@Manga_Inferno_chat⛵️
 <b>Support Channel</b> :- 💈@armin_bots💈
-<b>My Master</b> :- @arminarlert898🔮"""
+<b>My Master</b> :- 🔮@arminarlert898🔮"""
     ABS_TEXT = " Please don't be selfish."
     
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
